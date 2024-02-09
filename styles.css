@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    text-align: center;
+    width: 40%;
+    margin: 10% auto;
+    flex-wrap: wrap;
+}
+
+.square {
+    border: 1px solid black;
+    width: 5.7%;
+    min-height: 18px;
+}
