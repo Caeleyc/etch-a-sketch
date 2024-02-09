@@ -4,10 +4,14 @@
     width: 40%;
     margin: 10% auto;
     flex-wrap: wrap;
+    height: 360px;
 }
 
 .square {
-    border: 1px solid black;
+    border: 1px solid lightgray;
     width: 5.7%;
-    min-height: 18px;
+}
+
+.reset {
+    margin: 2% auto;
 }
